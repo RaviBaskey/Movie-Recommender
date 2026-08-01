@@ -6,6 +6,8 @@ A machine learning-powered recommendation system that suggests movies based on c
 
 The system is served through a **Flask** web application with a clean UI, and fetches live movie posters from the **TMDB API**.
 
+### 🌐 [Live Demo → movie-recommender-wa4v.onrender.com](https://movie-recommender-wa4v.onrender.com)
+
 ---
 
 ## 🚀 Key Features
